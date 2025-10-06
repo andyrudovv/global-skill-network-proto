@@ -1,6 +1,6 @@
-module github.com/andyrudovv/global-skill-network-proto/protos
+module github.com/andyrudovv/global-skill-network-proto
 
-go 1.25
+go 1.25.1
 
 require (
 	google.golang.org/grpc v1.75.1
@@ -8,7 +8,6 @@ require (
 )
 
 require (
-	github.com/golang/protobuf v1.5.4 // indirect
 	golang.org/x/net v0.44.0 // indirect
 	golang.org/x/sys v0.36.0 // indirect
 	golang.org/x/text v0.29.0 // indirect
