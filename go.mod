@@ -1,6 +1,7 @@
 module github.com/andyrudovv/global-skill-network-proto
 
-go 1.25.1
+go 1.23.5
+
 
 require (
 	google.golang.org/grpc v1.75.1
